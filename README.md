@@ -6,9 +6,18 @@ Java programmēšanas valodā izstrādātā programmatūras projekta sākotnēj�
 - [ ] Programmas kods izdalīts metodēs
 - [ ] Programmas kods izdalīts atsevišķās klasēs
 - [ ] Programmā ieviest galveno izvēlni
-      
-**𝗜𝘇𝘃𝗲𝗶𝗱𝗼𝘁 𝗷𝗮𝘂𝗻𝘂 𝗸𝗮𝗿𝘁𝗶** 
+- [ ] Izveidot noreķinu karti
+	- [ ] Izveidot kredīt karti
+	- [ ] Izveidot bankomatu
+	- [ ] Nopelnīt naudu
+	- [ ] Noņemt naudu
+ 	- [ ] Paskatīties kartas kodu
+	- [ ] Paskatīties konta atlikumu
+	- [ ] Bankas operacijas
+	- [ ] Bankas palidzība 
+	- [ ] Paņekmt kredītu
+ 	- [ ] Paņemt ipoteku 
 
--[x] Izstradat projektu
+
 	
 

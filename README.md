@@ -6,8 +6,8 @@ Java programmēšanas valodā izstrādātā programmatūras projekta sākotnēj�
 - [ ] Programmas kods izdalīts metodēs
 - [ ] Programmas kods izdalīts atsevišķās klasēs
 - [ ] Programmā ieviest galveno izvēlni
-      
-**𝗜𝘇𝘃𝗲𝗶𝗱𝗼𝘁 𝗷𝗮𝘂𝗻𝘂 𝗸𝗮𝗿𝘁𝗶**
+**𝗜𝘇𝘃𝗲𝗶𝗱𝗼𝘁 𝗷𝗮𝘂𝗻𝘂 𝗸𝗮𝗿𝘁𝗶** 
+
 	- [ ] Ievadīt kritērijus
 	- [ ] Ievadīt kritēriju svarus
 	- [ ] Ievadīt vērtējumus

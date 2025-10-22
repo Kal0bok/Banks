@@ -1,12 +1,12 @@
-# GalaVertejumaKalkulators
-Java programmēšanas valodā izstrādātā programmatūras projekta sākotnējā versija. Nelielā programma nodrošina audzēkņu gala vērtējuma aprēķinu, balstoties uz iepriekš definētiem kritērijiem un to nozīmi vērtējuma noteikšanā.
+# Banka projekts
+Java programmēšanas valodā izstrādātā programmatūras projekta sākotnējā versija. Nelielā programma kas izveidota lai veikt operacijas ar banku, balstoties uz iepriekš definētu un to skaitu.
 
 **Darāmo darbu saraksts**
 - [x] Izstrādāt projekta sākotnējo versiju (viena klase, bez metodēm)
-- [ ] Programmas kodu izdalīt metodēs
-- [ ] Programmas kodu izdalīt atsevišķās klasēs
+- [ ] Programmas kods izdalīts metodēs
+- [ ] Programmas kods izdalīts atsevišķās klasēs
 - [ ] Programmā ieviest galveno izvēlni
-	- [ ] Ievadīt audzēkņus
+**𝗜𝘇𝘃𝗲𝗶𝗱𝗼𝘁 𝗷𝗮𝘂𝗻𝘂 𝗸𝗮𝗿𝘁𝗶**
 	- [ ] Ievadīt kritērijus
 	- [ ] Ievadīt kritēriju svarus
 	- [ ] Ievadīt vērtējumus

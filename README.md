@@ -4,7 +4,7 @@ Java programmēšanas valodā izstrādātā programmatūras projekta sākotnēj�
 **Darāmo darbu saraksts**
 - [x] Izstrādāt projekta sākotnējo versiju (viena klase, bez metodēm)
 - [ ] Programmas kods izdalīts metodēs
-- [ ] Programmas kods izdalīts atsevišķās klasēs
+- ( ) Programmas kods izdalīts atsevišķās klasēs
 - [ ] Programmā ieviest galveno izvēlni
 - [ ] Izveidot noreķinu karti
 	- [ ] Izveidot kredīt karti
